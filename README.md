@@ -17,11 +17,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable IIS (Internet Information Services) in Windows with CGI and Common HTTP Features
+ 
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/38b6786d-01e4-488e-9f30-8b52076d725d)
+
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/9bf2532d-4024-4055-b3f6-de146c56aa20)
+
+- Instal PHP Manager for IIS (PHPManagerFORIIS_V1.5.0.msi)
+  
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/aaf9f4be-16a3-4724-b8d6-fc6fe396b8f9)
+
+- Install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/73a384b5-84ef-4a30-a97e-3d7a5a543efd)
+
+  
+- Create a directory called C:\PHP on the local hard drive
+
+   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/7ba14ea6-af15-4b3a-92ae-e21b4c177db2)
+
+- Download PHP 7.3.8 and Unzip files into C:\PHP
+
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/0cfcc689-c902-4a75-ae6c-d5a47eea6534)
+
+- Download VC redist.x86.exe
+
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/5a86e865-5ba9-426d-959f-27b1d88e2ec6)
+
+  
+- Download MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  1) Click Typical Setup --> launch configuration wizard --> Standard Configuration
+  2) Create a password
+
+   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/711804e2-eb04-4c55-bf50-cdcded66e092)
+
+   
+- 
+
+
+
+
 
 <h2>Installation Steps</h2>
 
