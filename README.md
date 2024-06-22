@@ -69,6 +69,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   Enable the remaining configurations
   5)Double-click PHP Manager on IIS, then "Enable or disable extension", enable "php_imap, php_intln, and php_opcache"
   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/546b490b-5653-41f9-b164-79fa073cb495)
+  6)Rename ost-sampleconfig in osTicket Folder to "ost-config.php"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/08a9796f-1a3e-4a59-bf8d-2681ae2ed1a0)
+  7)Disable inheritance and assign permission to all users to interact with ost-config file
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/0a84354a-d574-4980-a785-23f293802770)
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/04e45c63-9b7e-4da4-b837-1616f5dcec46)
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/dd495088-65fa-43ea-9725-5d34098d98b2)
+  
+
+
+
 
   
 
