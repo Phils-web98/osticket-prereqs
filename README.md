@@ -52,34 +52,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/711804e2-eb04-4c55-bf50-cdcded66e092)
 
    
-- 
+- Configurations
+  1) Register PHP from IIS as an adminstrator
+   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/645b3673-abe9-474c-84fe-4f9099172681)
+  2) Restart the IIS server
+     
+- Download osTicket from installation Files
+  1)Copy "upload" folder to c:\inetpub\wwwroot and Rename it to 'osTicket"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/4fa1c015-5027-4c30-9577-67e7c06e329a)
+  2) Rename it to 'osTicket"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/61c8a07c-5d7a-4a90-8a01-ff394613bb87)
+  3)Open IIS as admin, Click Sites then Defaut Website then osTicket then "Browse *.80"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/2ef25c6a-11cf-43d7-abf5-c38d74aca37c)
+  4) A webpage displaying osTicket should open
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/d0effce4-b4b6-4650-8de6-c3327f2d331f)
+  Enable the remaining configurations
+  5)Double-click PHP Manager on IIS, then "Enable or disable extension", enable "php_imap, php_intln, and php_opcache"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/546b490b-5653-41f9-b164-79fa073cb495)
+
+  
+
+
+
+  
 
 
 
 
 
-<h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
