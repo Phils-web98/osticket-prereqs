@@ -16,6 +16,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+Use this link for reference and downloads
+https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/1b313a9b-c06c-4a94-bf01-455c83246ba5)
+
 
 - Enable IIS (Internet Information Services) in Windows with CGI and Common HTTP Features
  
