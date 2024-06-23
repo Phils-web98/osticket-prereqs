@@ -75,7 +75,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/0a84354a-d574-4980-a785-23f293802770)
   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/04e45c63-9b7e-4da4-b837-1616f5dcec46)
   ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/dd495088-65fa-43ea-9725-5d34098d98b2)
+
+  8) Install HeidiSQL
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/205e0249-4d36-4a18-9f5d-311b398ee5af)
+  Create new connection (username is root and password is the one used in the SQL set up)
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/866a53f5-7904-4701-95f1-7fcf1c64dc7c)
+  Create new database in Heidi, right-click "Unamed" then "new" then "database"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/5a996b65-25af-4869-b9df-3022b141e5bf)
+
+
+   
+  9)osTicket Set-Up
+  Click continue on the web browser, Fill up the necessary information
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/c021953a-8963-46b9-bfb3-3e1e16c56444)
+  Use "osticket" as MySQL Database name from Heidi
+  Use SQL username(root) and the password used for SQL
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/f72b73e3-b061-4924-aaba-2cb30755f7da)
+  Click "Install"
+  ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/c733279c-8ede-4bb5-a0fb-13927ed12622)
+
+  10) Delete the setup folder C:\inetpub\wwwroot\osTicket\setup
+      Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+      ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/7b9c3b7c-0839-454d-b884-da135d6bf16a)
+      
+  11) Links
+     For Admin: http://localhost/osTicket/scp/login.php
+     ![image](https://github.com/Phils-web98/osticket-prereqs/assets/172346798/1fc3f271-a9b3-4749-bd94-65b6b87c0260)
+
+     For End users: osTicket URL: http://localhost/osTicket/ 
+
+
+
   
+ 
+
 
 
 
